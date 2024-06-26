@@ -12,3 +12,6 @@ The screens Home, MyCard, Statistics, and Settings are added to the tab navigato
 
 Navigation Container: The NavigationContainer wraps the tab navigator, applying the selected theme.
 
+![WhatsApp Image 2024-06-26 at 22 12 02_ca241808](https://github.com/tym-mer/rn-assignment5-11013572/assets/170148561/8dd179f7-d511-492b-9eac-ab245d7e5f81)
+![WhatsApp Image 2024-06-26 at 22 12 02_d366e190](https://github.com/tym-mer/rn-assignment5-11013572/assets/170148561/d7eae5d8-3b50-457b-8198-40f147792139)
+
